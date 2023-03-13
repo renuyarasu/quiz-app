@@ -2,11 +2,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap");
 
-* {
-  font-family: "Poppins", sans-serif;
-  box-sizing: border-box;
-}
-
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -450,7 +445,7 @@ h3 {
 /* BUTTONS */
 .btn {
   font-size: 1.8rem;
-  padding: 1rem 0;
+  padding: 1rem;
   width: 20rem;
   text-align: center;
   border: 0.1rem solid #56a5eb;
